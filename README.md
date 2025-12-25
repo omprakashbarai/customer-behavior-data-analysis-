@@ -6,6 +6,7 @@ End-to-end customer shopping behavior analysis using Python, SQL, and Power BI t
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The objective is to uncover insights into spending patterns, customer segments, product performance, and subscription behavior to support data-driven business decisions.
 
+
 📂 Dataset Summary
 
 Rows: 3,900
@@ -34,6 +35,7 @@ BI Tool: Power BI
 Database: PostgreSQL
 
 Version Control: Git & GitHub
+
 
 🔍 Data Cleaning & Preparation (Python)
 
